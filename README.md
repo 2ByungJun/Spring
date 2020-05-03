@@ -1,6 +1,6 @@
 ## JSP, Spring Study
 ___
-### update : 2020.05.03
+### update : 2020.05.04
 
 > Velog Link : https://velog.io/@ieed0205
 
@@ -17,4 +17,10 @@ ___
 >       - JSP start [2020.05.03]
 >               - hello.jsp
 >               - login.jsp
+
+> ## 2. SpringMVC.jsp
+>
+> ###  - Day : 2020.05.04
+>
+>               - MVC 패턴
 
