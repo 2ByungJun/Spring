@@ -1,6 +1,6 @@
 ## JSP, Spring Study
 ___
-### update : 2020.05.04
+### update : 2020.05.09
 
 > Velog Link : https://velog.io/@ieed0205
 
@@ -23,4 +23,10 @@ ___
 > ###  - Day : 2020.05.04
 >
 >               - MVC 패턴
+
+> ## 3. borad
+>
+> ### - Day : 2020.05.09 ~
+>
+>               - 게시판
 
