@@ -1,6 +1,6 @@
 ## JSP, Spring Study
 ___
-### update : 2020.05.09
+### update : 2020.05.24
 
 > Velog Link : https://velog.io/@ieed0205
 
