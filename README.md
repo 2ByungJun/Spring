@@ -1,6 +1,6 @@
 ## JSP, Spring Study
 ___
-### update : 2020.05.24
+### update : 2020.05.26
 
 > Velog Link : https://velog.io/@ieed0205
 
@@ -26,7 +26,15 @@ ___
 
 > ## 3. borad
 >
-> ### - Day : 2020.05.09 ~
+> ### - Day : 2020.05.09 ~ ...
 >
 >               - 게시판
+
+> ## 4. isgProject
+>
+> ### - Day : 2020.05.10 ~ 2020.05.26
+>
+>               - Crawling
+>               - Paging
+>               - Excel
 
